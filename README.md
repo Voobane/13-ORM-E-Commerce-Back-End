@@ -1,4 +1,8 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# M13 ORM
+
+GitHub Repo Link: https://github.com/Voobane/13-ORM-E-Commerce-Back-End
+
+Video Walkthrough link: 
 
 ## Your Task
 
