@@ -2,7 +2,7 @@
 
 GitHub Repo Link: https://github.com/Voobane/13-ORM-E-Commerce-Back-End
 
-Video Walkthrough link: https://drive.google.com/file/d/1t2SJlVh22TKFvqXOwrjKQZKfIibljsOH/view?usp=sharing
+Video Walkthrough link: https://drive.google.com/file/d/1v7_L8RisxTyjZ2Bczp37Tm-hUqPxRO5N/view?usp=sharing
 
 ## Your Task
 
