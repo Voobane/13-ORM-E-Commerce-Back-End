@@ -4,6 +4,9 @@ GitHub Repo Link: https://github.com/Voobane/13-ORM-E-Commerce-Back-End
 
 Video Walkthrough link: https://drive.google.com/file/d/1v7_L8RisxTyjZ2Bczp37Tm-hUqPxRO5N/view?usp=sharing
 
+Video Walkthrough for Products only link: 
+
+
 ## Your Task
 
 Internet retail, also known as **e-commerce**, plays a significant role within the electronics industry, as it empowers businesses and consumers alike to conveniently engage in online buying and selling of electronic products. In the latest available data from 2021, the industry in the United States alone was estimated to have generated the substantial amount of US$2.54 trillion, according to the United Nations Conference on Trade and Development. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
